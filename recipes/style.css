@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    border: solid 30px rgb(198, 96, 18);
+    padding: 20px;
+}
+
+* {
+    background: hsl(29, 72%, 72%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+.link {
+    text-align: center;
+    margin: 30px;
+}
